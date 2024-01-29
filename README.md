@@ -3,14 +3,12 @@ Forum management platform
 ## installation
 $ npm install
 ## Running the app
-**development**
-
+*We are split two folder: frontend and backend*
+**backend**
+```
+#development
 $ npm run start
-
-**watch mode**
-
+#watch mode
 $ npm run start:dev
-
-**production mode**
-
-$ npm run start:prod
+#production mode
+$ npm run start:prod```
