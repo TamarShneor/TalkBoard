@@ -9,7 +9,7 @@ $ npm install
 
 **frontend**
 ```bash
-#development
+# development
 
 $ npm run dev
 
@@ -19,15 +19,15 @@ $ npm run build
 ```
 **backend**
 ```bash
-#development
+# development
 
 $ npm run start
 
-#watch mode
+# watch mode
 
 $ npm run start:dev
 
-#production mode
+# production mode
 
 $ npm run start:prod
 ```
